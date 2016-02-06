@@ -6,6 +6,8 @@ It uses React and Redux. Babel and Webpack are used to convert the code to ES5 a
 
 To run the app, just open ```index.html``` which is inside the ```public``` directory.
 
+*Demo:* http://klikstermkd.github.io/image-filter/
+
 If you want to play around with the code, follow these instructions:
 
 1. If you haven't already installed Webpack, run: ```npm install -g webpack```
